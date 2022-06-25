@@ -1,0 +1,263 @@
+*{
+    color: white;
+}
+
+.body{
+    background-color: black;
+    color: white;
+}
+
+.im{
+    background-image: url(./images/bcck.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.row{
+    background-color: black;
+    position: relative; 
+}
+
+.logo{
+    width: 100%;
+    padding-top: 50px;
+}
+
+.moto{
+    width: 100%;
+}
+
+P{
+    font-size: 18px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 5px;
+    padding: 55px;
+}
+
+.cal{
+    opacity: 70%;
+    margin: 50px;
+    padding-top: 20px;
+}
+
+button{
+    background-color: none;
+}
+
+.p1{
+    margin-top: 20px;
+    line-height: 40px;
+    padding-bottom: 150px;
+}
+
+.hhh{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.hh{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    background-color: rgb(229, 201, 124);
+    opacity: 85%;
+    font-weight: 550;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cc{
+    width: 100%;
+}
+
+.card-text{
+    padding: 10px;
+    font-size: 15px;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+.card-title, .card-text, .card-body{
+    color: black;
+    background-color: rgb(229, 201, 124);
+}
+
+.pd{
+    padding: 20px;
+}
+
+.charac{
+    font-size: 25px;
+    padding-top: 100px;
+}
+
+.ch1, .ch2, .ch3{
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.txt{
+    background-color: rgb(47, 46, 46);
+    color: white;
+    margin: -18px;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.chrt{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.cops{
+    padding-top: 30px;
+}
+
+.pro{
+    width: 100%;
+    padding: 50px;
+}
+
+.ant{
+    text-align: center;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 5px;
+    padding: 35px;
+    padding-top: 50px;
+}
+
+.pro1{
+    background-image: url(./images/bck2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.off{
+    background-color: black;
+}
+
+.try{
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.btn{
+    letter-spacing: 5px;
+}
+
+.loc{
+    background-image: url(./images/bcck2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ico{
+    color: rgb(234, 221, 190);
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 8px;
+    padding: 30px;
+}
+
+.loim{
+    width: 100%;
+    padding: 20px;
+}
+
+.loc1{
+    padding: 10px;
+    color: black;
+    background-color: rgb(234, 221, 190);
+    opacity: 50%;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+
+.loc2{
+    padding: 0px 20px 20px 20px;
+}
+pre{
+    text-align: center;
+}
+
+.loc3{
+    padding: 10px 100px 10px 100px; 
+}
+
+.locc{
+    padding-top: 20px;
+}
+
+.endbck{
+    background-color: white;
+}
+
+.end{
+    text-align: center;
+    padding-bottom: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.end1{
+    color: black;
+    padding: 30px;
+    font-size: 50px;
+}
+
+.ndl{
+    width: 100%;
+    padding: 80px 60px 50px 60px;
+}
+
+.end2{
+    color: black;
+    padding: 80px 100px 60px 100px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0px;
+    font-weight: 500;
+}
+
+.nd2{
+    height: 50px;
+}
+
+.naav{
+    padding: 0px 10px 0px 10px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+}
+
+nav{
+    background-color: grey;
+}
+
+@media(max-width:1100px){
+    .moto{
+        padding-top: 15px;
+    }
+
+    p{
+        font-size: 13px;
+    }
+
+    .title{
+        align-items: center;
+    }
+
+    .nd2{
+        height: 30px;
+    }
+
+}
